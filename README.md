@@ -1,7 +1,7 @@
 # eks-token
 EKS Token package, an alternate to "aws eks get-token ..." CLI
 
-![Logo](eks-iam.png)
+![Logo](https://raw.githubusercontent.com/peak-ai/eks-token/master/eks-iam.png)
 
 ## Usage
 
